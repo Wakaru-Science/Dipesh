@@ -98,18 +98,18 @@ education:
 
 experiences:
 
-    - company: Shiv Nadar University, Mumbai
+    - company: <b>Shiv Nadar University, Mumbai</b>
       role: Junior Researcher
       time: Feb 2021 - present 
       details: |
-        Guide: <b>Prof Nagmani Sukumar</b>
+        Guide: Prof Nagmani Sukumar
           - Interpretable IC50 predictions on pyruvate-kinase inhibitors using capsule networks.
 
     - company: Institute of Chemical Technology, Mumbai
       role: Junior Researcher
       time: Oct 2020 - Jan 2021 
       details: |
-        <b>Guide: Prof Anant Kapdi</b>
+        Guide: Prof Anant Kapdi
           - Understanding the metal-ligand backbonding interaction and proving the pi-accepting nature of PTABS ligand using Ni complexes.
           - Studying the mechanism of Cu(I) PTABS Complexes.
 
@@ -132,14 +132,14 @@ experiences:
       time: Jun 2019 - Jun 2020
       details: |
         Guide: Prof Dilip Maity
-          - Stuff
+          - The project consisted of studying mechanism of insitu catalyst with PTABS ligand and a Palladium atom core. The catalyst size exceeded 100 atoms, showing great flexibility and unusual properties.
 
     - company: Homi Bhabha National Institute, BARC, Mumbai
       role: Intern
       time: May 2019 - Jun 2019
       details: |
         Guide: Prof Dilip Maity
-          - Stuff
+          - Studied theory and application of Computational Chemistry.
 
     - company: Ramnarain Ruia College, Mumbai
       role: Bachelor's Research Student
