@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: dipesh.somvanshi.7
     phone: +91 8805143358
-    website: dipesh.wakaruscience.com #do not add http://
+    website: wakaruscience.com #do not add http://
     linkedin: dipesh-somvanshi-91b853183
     github: #Dipesh
     gitlab:
@@ -175,21 +175,21 @@ publications:
 
 skills:
     title: Skills
-    intro: |
+    summary: |
     
-   Computational Chemistry 
-   Python 
-   Neural Networks from scratch 
-   Deep Neural Networks 
-   Convolutional Neural Networks 
-   Capsule Networks 
-   Gaussian 
-   Experience with Supercomputers 
-   Organic Chemistry 
-   Software Development 
-   Basic Linux 
-   Quantum Mechanics 
-   Latex 
+    Computational Chemistry 
+    Python 
+    Neural Networks from scratch 
+     Deep Neural Networks 
+    Convolutional Neural Networks 
+    Capsule Networks 
+    Gaussian 
+    Experience with Supercomputers 
+    Organic Chemistry 
+    Software Development 
+    Basic Linux 
+    Quantum Mechanics 
+    Latex 
 
 
 footer: >
