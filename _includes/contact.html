@@ -1,6 +1,12 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
+    {% if sidebar.orcid %}
+    <li class="orcid"><i class="fab fa-orcid" style="font-size:20px"></i>
+      <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank">{{ sidebar.orcid }}</a>
+    </li>
+    {% endif %}
+
     {% if sidebar.email %}
     <li class="email"><i class="fas fa-envelope"></i>
       <a href="mailto:{{ sidebar.email }}@gmail.com">{{ sidebar.email }}</a>
@@ -64,12 +70,6 @@
     {% if sidebar.researchgate %}
     <li class="researchgate"><i class="fab fa-researchgate" style="font-size:15px"></i>
       <a href="https://www.researchgate.net/profile/{{ sidebar.researchgate }}" target="_blank">{{ sidebar.researchgate }}</a>
-    </li>
-    {% endif %}
-
-    {% if sidebar.orcid %}
-    <li class="orcid"><i class="fab fa-orcid" style="font-size:20px"></i>
-      <a href="https://orcid.org/{{ sidebar.orcid }}" target="_blank">{{ sidebar.orcid }}</a>
     </li>
     {% endif %}
 
