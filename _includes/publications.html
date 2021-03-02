@@ -26,3 +26,35 @@
 
 </section><!--//section-->
 {% endif %}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+{% assign skills = site.data.data.skills %}
+{% if skills %}
+<section class="section skills-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-cogs fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ skills.title }}
+  </h2>
+
+  <div class="summary">
+    {{ career-profile.summary | markdownify }}
+  </div><!--//summary-->
+    
+</section><!--//section-->
+{% endif %}
