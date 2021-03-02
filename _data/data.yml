@@ -55,9 +55,11 @@ sidebar:
         link:
 
 career-profile:
+    Hii! I am Dipesh.
     title: Career Profile
     summary: |
       Hii! I am Dipesh. You can download my resume from [here](/assets/pdf/Resume.pdf).
+
 
 education:
     - degree: MSc in Chemistry
@@ -108,14 +110,22 @@ experiences:
       time: Aug 2020 - Oct 2020 
       details: |
         Guide: Prof Fernanda Duarte
-          - Modelling of Pd/PTABS system on recently developed autodE software by Duare group.
+          - Modelling of Pd/PTABS system on recently developed autodE software by Duarte group.
 
-    - company: Tata Institute of Fundamental Research
+    - company: Tata Institute of Fundamental Research, Mumbai
       role: Junior Researcher
-      time: June 2020 - Aug 2020
+      time: Jun 2020 - Aug 2020
       details: |
         Guide: Prof Vamsee Voora
           - Simulation of electron-hole interaction on semiconductor polymers.
+
+    - company: Homi Bhabha National Institute, BARC, Mumbai
+      role: Master Project Student
+      time: Jun 2019 - Jun 2020
+      details: |
+        Guide: Prof Dilip Maity
+          - Stuff
+
 
     - role: UI Developer
       time: 2012 - 2014
