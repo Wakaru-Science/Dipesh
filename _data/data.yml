@@ -98,14 +98,14 @@ education:
 
 experiences:
 
-    - company: <b>Shiv Nadar University, Mumbai</b>
+    - company: <b>Shiv Nadar University</b>, Mumbai
       role: Junior Researcher
       time: Feb 2021 - present 
       details: |
         Guide: Prof Nagmani Sukumar
           - Interpretable IC50 predictions on pyruvate-kinase inhibitors using capsule networks.
 
-    - company: Institute of Chemical Technology, Mumbai
+    - company: <b>Institute of Chemical Technology</b>, Mumbai
       role: Junior Researcher
       time: Oct 2020 - Jan 2021 
       details: |
@@ -113,28 +113,28 @@ experiences:
           - Understanding the metal-ligand backbonding interaction and proving the pi-accepting nature of PTABS ligand using Ni complexes.
           - Studying the mechanism of Cu(I) PTABS Complexes.
 
-    - company: Hertford College, Oxford University, Mumbai
+    - company: <b>Hertford College, Oxford University</b>, Mumbai
       role: Collaboration Student
       time: Aug 2020 - Oct 2020 
       details: |
         Guide: Prof Fernanda Duarte
           - Modelling of Pd/PTABS system on recently developed autodE software by Duarte group.
 
-    - company: Tata Institute of Fundamental Research, Mumbai
+    - company: <b>Tata Institute of Fundamental Research</b>, Mumbai
       role: Junior Researcher
       time: Jun 2020 - Aug 2020
       details: |
         Guide: Prof Vamsee Voora
           - Simulation of electron-hole interaction on semiconductor polymers.
 
-    - company: Homi Bhabha National Institute, BARC, Mumbai
+    - company: <b>Homi Bhabha National Institute</b>, BARC, Mumbai
       role: Master Project Student
       time: Jun 2019 - Jun 2020
       details: |
         Guide: Prof Dilip Maity
           - The project consisted of studying mechanism of insitu catalyst with PTABS ligand and a Palladium atom core. The catalyst size exceeded 100 atoms, showing great flexibility and unusual properties.
 
-    - company: Homi Bhabha National Institute, BARC, Mumbai
+    - company: <b>Homi Bhabha National Institute, BARC</b>, Mumbai
       role: Intern
       time: May 2019 - Jun 2019
       details: |
@@ -148,14 +148,14 @@ experiences:
         Guide: Prof Madhavi Badole
           - Drastic reduction in reaction time with the use of formamide as a solvent and catalyst in microwave assisted knoevenagel synthesis of benzylidene malononitrile and it’s effect on rate of reaction and percentage yield.
 
-    - company: iWAB Solutions Pvt Ltd, Ambarnath
+    - company: <b>iWAB Solutions Pvt Ltd</b>, Ambarnath
       role: iOS App Developer
       time: Jun 2016 - Aug 2016
       details: |
           - Worked as part of a team in developing an app for a tourism company.
           - Responsibility included partial development of front end and UI components of the software with a team member.
 
-    - company: iWAB Solutions Pvt Ltd, Ambarnath
+    - company: <b>iWAB Solutions Pvt Ltd</b>, Ambarnath
       role: intern iOS App Developer
       time: Jan 2016 - May 2016
       details: |
