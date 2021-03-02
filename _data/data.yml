@@ -93,6 +93,14 @@ education:
           - Bullet point 
 
 experiences:
+
+    - company: Shiv Nadar University, Mumbai
+      role: Junior Researcher
+      time: Feb 2021 - present 
+      details: |
+        Guide: Prof Nagmani Sukumar
+          - Interpretable IC50 predictions on pyruvate-kinase inhibitors using capsule networks.
+
     - company: Institute of Chemical Technology, Mumbai
       role: Junior Researcher
       time: Oct 2020 - Jan 2021 
@@ -101,18 +109,19 @@ experiences:
           - Understanding the metal-ligand backbonding interaction and proving the pi-accepting nature of PTABS ligand using Ni complexes.
           - Studying the mechanism of Cu(I) PTABS Complexes.
 
-    - company: Google, London
-      role: Junior Researcher
-      time: 2014 - 2015
+    - company: Hertford College, Oxford University, Mumbai
+      role: Collaboration Student
+      time: Aug 2020 - Oct 2020 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Guide: Prof Fernanda Duarte
+          - Modelling of Pd/PTABS system on recently developed autodE software by Duare group.
 
-          - Bullet point
-          - Bullet point
+    - company: Tata Institute of Fundamental Research
+      role: Junior Researcher
+      time: June 2020 - Aug 2020
+      details: |
+        Guide: Prof Vamsee Voora
+          - Simulation of electron-hole interaction on semiconductor polymers.
 
     - role: UI Developer
       time: 2012 - 2014
