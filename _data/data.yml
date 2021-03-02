@@ -93,16 +93,17 @@ education:
           - Bullet point 
 
 experiences:
-    - role: Junior Researcher
+    - company: Institute of Chemical Technology, Mumbai
+      role: Junior Researcher
       time: Oct 2020 - Jan 2021 
-      company: Institute of Chemical Technology, Mumbai
       details: |
+        Guide: Prof Anant Kapdi
           - Understanding the metal-ligand backbonding interaction and proving the pi-accepting nature of PTABS ligand using Ni complexes.
           - Studying the mechanism of Cu(I) PTABS Complexes.
 
-    - role: Senior Software Engineer
+    - company: Google, London
+      role: Junior Researcher
       time: 2014 - 2015
-      company: Google, London
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
