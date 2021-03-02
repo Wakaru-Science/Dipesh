@@ -57,12 +57,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Hii! I am <b>Dipesh</b>. You can download my resume from [here](/assets/pdf/Resume.pdf).
+      Hii! I am Dipesh. You can download my resume from [<b>here</b>](/assets/pdf/Resume.pdf).
 
 Thesis:
     title: Master's Thesis
     summary: |
-      Hii! I am Dipesh. You can download my resume from [here](/assets/pdf/Resume.pdf).
+      <b> title </b>
+      
+      Stuff
+      
+      More stuff
 
 
 education:
@@ -98,14 +102,14 @@ experiences:
       role: Junior Researcher
       time: Feb 2021 - present 
       details: |
-        Guide: Prof Nagmani Sukumar
+        Guide: <b>Prof Nagmani Sukumar</b>
           - Interpretable IC50 predictions on pyruvate-kinase inhibitors using capsule networks.
 
     - company: Institute of Chemical Technology, Mumbai
       role: Junior Researcher
       time: Oct 2020 - Jan 2021 
       details: |
-        Guide: Prof Anant Kapdi
+        <b>Guide: Prof Anant Kapdi</b>
           - Understanding the metal-ligand backbonding interaction and proving the pi-accepting nature of PTABS ligand using Ni complexes.
           - Studying the mechanism of Cu(I) PTABS Complexes.
 
@@ -162,8 +166,8 @@ publications:
     intro: |
 
     papers:
-      - title: Cu(II)/PTABS-Versatile Water-Soluble Recyclable Catalyst System for Pd-Free Room Temperature Amination of ChloroHeteroarenes in Water.
-        authors: Udaysinh Parmar, Dipesh Somvanshi, Sontosh Kori, Aman Desai, Rambabu Dandela, Dilip K. Maity, Anant R. Kapdi
+      - title: Cu(II)/PTABS - Versatile Water-Soluble Recyclable Catalyst System for Pd-Free Room Temperature Amination of ChloroHeteroarenes in Water.
+        authors: Udaysinh Parmar, <b>Dipesh Somvanshi</b>, Sontosh Kori, Aman Desai, Rambabu Dandela, Dilip K. Maity, Anant R. Kapdi
         conference: Draft submitted
 
 
