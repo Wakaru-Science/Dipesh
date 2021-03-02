@@ -8,11 +8,12 @@ sidebar:
 
     # Profile information
     name: Dipesh Somvanshi
-    tagline: Computational Chemist/Machine Learning Scientist
+    tagline: Computational Chemist/ 
+    	Machine Learning Scientist
     avatar: Dipesh_Professional.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: dipesh.somvanshi.7@gmail.com
+    email: dipesh.somvanshi.7
     phone: +91 8805143358
     website: dipesh.wakaruscience.com #do not add http://
     linkedin: dipesh-somvanshi-91b853183
@@ -66,9 +67,9 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: MSc in Chemistry
+      university: Institute of Chemical Technology
+      time: 2018 - 2020
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -79,9 +80,9 @@ education:
           - Bullet point
           - Bullet point 
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BSc in Chemistry (Physics Minor)
+      university: Ramnarain Ruia College
+      time: 2016 - 2018
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
