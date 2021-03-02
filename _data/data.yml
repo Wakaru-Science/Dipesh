@@ -64,9 +64,9 @@ thesis:
     summary: |
       <b> Theoretical Investigations and Predictions on the Catalytic cycle Mechanism of Pd/PTABS using DFT </b>
       
-      Guide: Prof Anant Kapdi, Institute of Chemical Technology, Mumbai
-      Co-Guide: Prof Dilip Maity, Homi Bhabha National Institute (BARC), Mumbai
-      Synthesis Collaborator: Prof Calola Schulzke, University of Greifswald, Germany
+      <b>Guide:</b> Prof Anant Kapdi, Institute of Chemical Technology, Mumbai <br>
+      <b>Co-Guide:</b> Prof Dilip Maity, Homi Bhabha National Institute (BARC), Mumbai <br>
+      <b>Synthesis Collaborator:</b> Prof Calola Schulzke, University of Greifswald, Germany <br>
       
       The project comprised of investigating the mechanism of recently developed catalyst by Kapdi Lab and predicting potential new structures for the next generation of catalyst. The catalyst was unique in nature due to a metal centre and 100+ atom count and a enzyme like behaviour. Various conformers were identified and initial reaction steps were analysed. The calculations were performed with Linux based Gaussian 16 on BARC supercomputer. Python was used for analysis. Experimental work was done by Siva Murty under Prof Carola Schulzke at Greifswald University, Germany. 
 
