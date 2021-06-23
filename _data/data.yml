@@ -170,15 +170,14 @@ publications:
 
     papers:
       - title: Cu(II)/PTABS - Versatile Water-Soluble Recyclable Catalyst System for Pd-Free Room Temperature Amination of ChloroHeteroarenes in Water.
+        link: "/assets/pdf/acs_joc_1c00845.pdf"
         authors: Udaysinh Parmar, <b>Dipesh Somvanshi</b>, Sontosh Kori, Aman Desai, Rambabu Dandela, Dilip K. Maity, Anant R. Kapdi
         conference: Paper Accepted. Journal of Organic Chemistry. <a href="/assets/pdf/acs_joc_1c00845.pdf" download><u>Download</u></a>
 
-    papers:
       - title: Mechanism of Metal-Free Amination of Chloroheteroarenes via C-H bond functionalization using HFIP.
         authors: Narendra Chaubey,<b>Dipesh Somvanshi</b>, Dilip K. Maity, Anant R. Kapdi
         conference: Manuscript is under review. (as of June 2021)
 
-    papers:
       - title: Interpretable Prediction of Pyruvate Kinase inhibitors IC50 values using Capsule Network.
         authors: <b>Dipesh Somvanshi</b>, Nagamani Sukumar
         conference: Manuscript is being prepared. (as of June 2021)
